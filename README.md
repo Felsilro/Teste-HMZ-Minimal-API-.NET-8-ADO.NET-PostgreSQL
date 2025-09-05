@@ -6,7 +6,7 @@ Projeto de **minimal API em .NET 8** CRUD, estruturada em camadas (`Domain`, `Ap
 
 ## 🛠️ Stack utilizada
 - **.NET 8 Minimal API**
-- **ADO.NET + Npgsql** (queries SQL claras, sem EF)
+- **ADO.NET + Npgsql**
 - **PostgreSQL 15**
 - **JWT (Bearer)** para autenticação
 - **Swagger/OpenAPI** com suporte a Authorization
