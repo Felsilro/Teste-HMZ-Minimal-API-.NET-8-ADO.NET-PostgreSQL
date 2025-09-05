@@ -1,0 +1,44 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/HMZ.MinimalApi.sln",
+        "-c",
+        "Debug",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "publish",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "publish",
+        "${workspaceFolder}/src/HMZ.Api/HMZ.Api.csproj",
+        "-c",
+        "Release",
+        "-o",
+        "${workspaceFolder}/publish"
+      ]
+    },
+    {
+      "label": "watch",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "watch",
+        "run",
+        "--project",
+        "${workspaceFolder}/src/HMZ.Api/HMZ.Api.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}

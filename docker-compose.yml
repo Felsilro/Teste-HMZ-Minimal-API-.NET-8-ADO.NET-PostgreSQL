@@ -1,0 +1,36 @@
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-hmz_db}
+      POSTGRES_USER: ${POSTGRES_USER:-hmz_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-hmz_pass}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./scripts:/docker-entrypoint-initdb.d
+
+  api:
+    build:
+      context: .
+      dockerfile: devops/Dockerfile
+    environment:
+      POSTGRES_HOST: db
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ${POSTGRES_DB:-hmz_db}
+      POSTGRES_USER: ${POSTGRES_USER:-hmz_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-hmz_pass}
+      JWT_ISSUER: ${JWT_ISSUER:-hmz-issuer}
+      JWT_AUDIENCE: ${JWT_AUDIENCE:-hmz-audience}
+      JWT_SECRET: ${JWT_SECRET:-super-secret-change-me-please-32chars}
+      SWAGGER_DOCS: 1
+      ENVIRONMENT: PRD
+      ASPNETCORE_URLS: http://+:8080
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+
+volumes:
+  pgdata:

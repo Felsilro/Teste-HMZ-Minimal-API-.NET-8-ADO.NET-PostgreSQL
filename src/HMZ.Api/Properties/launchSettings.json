@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "HMZ.Api": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5196;https://localhost:7196",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ENVIRONMENT": "DEV",
+        "SWAGGER_DOCS": "1"
+      }
+    }
+  }
+}

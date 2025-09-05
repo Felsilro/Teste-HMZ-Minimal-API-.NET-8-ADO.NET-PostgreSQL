@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0ah7/72mPw=",
+  "success": true,
+  "projectFilePath": "C:\\GIT_REPO\\FelipeNovo\\Teste-HMZ-Minimal-API-.NET-8-ADO.NET-PostgreSQL\\src\\HMZ.Domain\\HMZ.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

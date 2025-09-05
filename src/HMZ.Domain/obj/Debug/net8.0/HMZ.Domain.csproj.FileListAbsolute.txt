@@ -1,0 +1,12 @@
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/bin/Debug/net8.0/HMZ.Domain.deps.json
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/bin/Debug/net8.0/HMZ.Domain.dll
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/bin/Debug/net8.0/HMZ.Domain.pdb
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/HMZ.Domain.csproj.AssemblyReference.cache
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/HMZ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/HMZ.Domain.AssemblyInfoInputs.cache
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/HMZ.Domain.AssemblyInfo.cs
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/HMZ.Domain.csproj.CoreCompileInputs.cache
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/HMZ.Domain.dll
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/refint/HMZ.Domain.dll
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/HMZ.Domain.pdb
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Domain/obj/Debug/net8.0/ref/HMZ.Domain.dll

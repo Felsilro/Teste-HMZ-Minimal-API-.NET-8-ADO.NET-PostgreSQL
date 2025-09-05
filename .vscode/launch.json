@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C#: HMZ.Api",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/HMZ.Api/bin/Debug/net8.0/HMZ.Api.dll",
+      "preLaunchTask": "build",
+      "cwd": "${workspaceFolder}/src/HMZ.Api",
+      "stopAtEntry": false,
+      "console": "integratedTerminal",
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ENVIRONMENT": "DEV",
+        "SWAGGER_DOCS": "1"
+      }
+    }
+  ]
+}

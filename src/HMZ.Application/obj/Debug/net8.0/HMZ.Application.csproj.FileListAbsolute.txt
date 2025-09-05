@@ -1,0 +1,15 @@
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/bin/Debug/net8.0/HMZ.Application.deps.json
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/bin/Debug/net8.0/HMZ.Application.dll
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/bin/Debug/net8.0/HMZ.Application.pdb
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/bin/Debug/net8.0/HMZ.Domain.dll
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/bin/Debug/net8.0/HMZ.Domain.pdb
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/HMZ.Application.csproj.AssemblyReference.cache
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/HMZ.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/HMZ.Application.AssemblyInfoInputs.cache
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/HMZ.Application.AssemblyInfo.cs
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/HMZ.Application.csproj.CoreCompileInputs.cache
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/HMZ.Appl.9B7E91C0.Up2Date
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/HMZ.Application.dll
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/refint/HMZ.Application.dll
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/HMZ.Application.pdb
+/home/felipe.rosa/Documents/pessoal/faculdade/back/final-2/hmz-minimal-api-linux-dev/src/HMZ.Application/obj/Debug/net8.0/ref/HMZ.Application.dll
