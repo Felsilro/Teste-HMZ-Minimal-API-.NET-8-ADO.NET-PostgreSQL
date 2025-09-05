@@ -1,6 +1,6 @@
 # Teste-HMZ-Minimal-API-.NET-8-ADO.NET-PostgreSQL-
 
-Projeto de **API minimalista em .NET 8** para gerenciamento de usuários, implementada sem Entity Framework (apenas **ADO.NET + Npgsql**) e estruturada em camadas (`Domain`, `Application`, `Api`) seguindo princípios **SOLID**.
+Projeto de **minimal API em .NET 8** CRUD, estruturada em camadas (`Domain`, `Application`, `Api`) seguindo princípios **SOLID**.
 
 ---
 
